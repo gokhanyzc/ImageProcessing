@@ -1,0 +1,9 @@
+c:\users\gökhan yazıcı\documents\visual studio 2015\Projects\goruntu isleme\goruntu isleme\bin\Debug\goruntu isleme.exe.config
+c:\users\gökhan yazıcı\documents\visual studio 2015\Projects\goruntu isleme\goruntu isleme\bin\Debug\goruntu isleme.exe
+c:\users\gökhan yazıcı\documents\visual studio 2015\Projects\goruntu isleme\goruntu isleme\bin\Debug\goruntu isleme.pdb
+c:\users\gökhan yazıcı\documents\visual studio 2015\Projects\goruntu isleme\goruntu isleme\obj\Debug\goruntu isleme.csprojResolveAssemblyReference.cache
+c:\users\gökhan yazıcı\documents\visual studio 2015\Projects\goruntu isleme\goruntu isleme\obj\Debug\goruntu_isleme.Form1.resources
+c:\users\gökhan yazıcı\documents\visual studio 2015\Projects\goruntu isleme\goruntu isleme\obj\Debug\goruntu_isleme.Properties.Resources.resources
+c:\users\gökhan yazıcı\documents\visual studio 2015\Projects\goruntu isleme\goruntu isleme\obj\Debug\goruntu isleme.csproj.GenerateResource.Cache
+c:\users\gökhan yazıcı\documents\visual studio 2015\Projects\goruntu isleme\goruntu isleme\obj\Debug\goruntu isleme.exe
+c:\users\gökhan yazıcı\documents\visual studio 2015\Projects\goruntu isleme\goruntu isleme\obj\Debug\goruntu isleme.pdb
